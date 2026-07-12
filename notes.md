@@ -25,3 +25,17 @@
 **Key learning:**
 - Git = tool on my laptop that tracks changes
 - GitHub = website that hosts my git repos online
+
+## Day 2 — July 12, 2026
+
+What I did:
+- Day 1 was only about Git & GitHub basics (no Python yet)
+- Since I already know basic Python, today I started practicing 
+  small Python problems and committing them using Git
+- First practice: Variable swap without using a third variable
+
+Concept practiced:
+- Method 1: Tuple unpacking → a, b = b, a
+- Method 2: Arithmetic (+ and -) → x = x+y, y = x-y, x = x-y
+
+Goal: Build a daily habit of practicing Python + committing to GitHub
