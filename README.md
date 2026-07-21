@@ -15,3 +15,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 8: Practiced built-in data structures — List, Tuple, Dictionary, Set
 - Day 9: Practiced List methods (append, insert, remove, pop, sort, etc.) and Tuple operations (indexing, slicing, count, index)
 - Day 10: Practiced Dictionary methods (get, update, keys, values, items, pop)
+- Day 11: Practiced Set operations (union, intersection, difference, symmetric difference) and Set methods (add, remove, discard, pop, update)
