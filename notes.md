@@ -224,3 +224,23 @@ Concept learned:
 - split() automatically handles multiple/extra spaces between words
 - String methods don't change the original string — they return a new one 
   (strings are immutable in Python)
+
+  ## Day 14 — July 24, 2026
+
+What I did:
+- Practiced Lambda functions — short, one-line functions without def
+- Used lambda together with sorted(), filter(), and map()
+- Practiced *args — allows a function to accept any number of arguments, 
+  treated as a tuple inside the function
+- Learned **kwargs — allows any number of named arguments, treated as 
+  a dictionary inside the function
+
+Concept learned:
+- lambda is used for small, throwaway functions, usually passed as an 
+  argument to another function (like sorted, filter, map)
+- *args is useful when you don't know in advance how many values will 
+  be passed to a function
+- **kwargs is useful when you want to pass named data (like key=value 
+  pairs) without fixing the parameter names in advance
+- filter() keeps only the elements where the lambda condition is True
+- map() applies the lambda to every element and returns the transformed results

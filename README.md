@@ -18,3 +18,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 11: Practiced Set operations (union, intersection, difference, symmetric difference) and Set methods (add, remove, discard, pop, update)
 - Day 12: Practiced Python functions (parameters, return values, default arguments)
 - Day 13: Practiced String methods (strip, lower, upper, replace, split, join, startswith, isdigit, isalpha)
+- Day 14: Practiced Lambda functions, *args, and **kwargs
