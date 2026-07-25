@@ -19,3 +19,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 12: Practiced Python functions (parameters, return values, default arguments)
 - Day 13: Practiced String methods (strip, lower, upper, replace, split, join, startswith, isdigit, isalpha)
 - Day 14: Practiced Lambda functions, *args, and **kwargs
+- Day 15: Practiced Exception Handling (try-except, ValueError, ZeroDivisionError, IndexError)

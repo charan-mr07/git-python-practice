@@ -1,4 +1,4 @@
-# My Git & GitHub Learning Notes
+# My Git & GitHub Practice with python Notes
 
 ## Day 1 — July 11, 2026
 
@@ -170,7 +170,7 @@ Concept learned:
 - Dictionaries are very useful for storing structured data (like a student 
   record, config settings, or API response data)
 
-  ## Day 11 — July 21, 2026
+## Day 11 — July 21, 2026
 
 What I did:
 - Practiced Set operations: union (|), intersection (&), difference (-), and symmetric difference (^)
@@ -225,7 +225,7 @@ Concept learned:
 - String methods don't change the original string — they return a new one 
   (strings are immutable in Python)
 
-  ## Day 14 — July 24, 2026
+## Day 14 — July 24, 2026
 
 What I did:
 - Practiced Lambda functions — short, one-line functions without def
@@ -244,3 +244,23 @@ Concept learned:
   pairs) without fixing the parameter names in advance
 - filter() keeps only the elements where the lambda condition is True
 - map() applies the lambda to every element and returns the transformed results
+
+## Day 15 — July 25, 2026
+
+What I did:
+- Practiced Exception Handling using try-except
+- Wrote a division program handling ValueError (invalid input) and 
+  ZeroDivisionError (divide by zero)
+- Wrote a list index program handling ValueError and IndexError 
+  (index out of range)
+- Tested both programs with valid input, invalid input, and edge cases
+
+Concept learned:
+- try-except prevents a program from crashing when an unexpected error occurs
+- Different exception types (ValueError, ZeroDivisionError, IndexError, 
+  TypeError, KeyError) can be caught separately, each with its own 
+  specific error message
+- else block runs only if no exception occurs
+- finally block always runs, regardless of whether an exception occurred
+- Catching specific exceptions (instead of a bare except) makes debugging 
+  easier and gives clearer feedback to the user
