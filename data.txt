@@ -1,0 +1,3 @@
+Hello, this is my first file!
+Learning file handling in Python.
+This line is added without deleting old content.

@@ -264,3 +264,21 @@ Concept learned:
 - finally block always runs, regardless of whether an exception occurred
 - Catching specific exceptions (instead of a bare except) makes debugging 
   easier and gives clearer feedback to the user
+
+## Day 16 — July 26, 2026
+
+What I did:
+- Practiced File Handling in Python
+- Created a file (tasks.txt) and wrote content into it using write mode ("w")
+- Read the file content using read mode ("r")
+- Used append mode ("a") to add new content without deleting existing data
+- Read the file line by line using a for loop
+
+Concept learned:
+- "w" mode creates a new file or overwrites an existing one
+- "r" mode is used only to read a file
+- "a" mode adds new content to the end without removing what's already there
+- Using "with open(...) as file:" automatically closes the file — no need 
+  to manually call file.close()
+- Reading line by line with a for loop is useful for processing large files 
+  or task lists one entry at a time  
