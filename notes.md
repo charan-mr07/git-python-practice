@@ -282,3 +282,24 @@ Concept learned:
   to manually call file.close()
 - Reading line by line with a for loop is useful for processing large files 
   or task lists one entry at a time  
+
+## Day 17 — July 27, 2026
+
+What I did:
+- Practiced OOP (Object-Oriented Programming) basics in Python
+- Learned the difference between a class (blueprint) and an object 
+  (actual thing created from that blueprint)
+- Created a "Car" class with attributes (brand, model, year) using __init__
+- Created a method (display_info) inside the class to print car details
+- Created two separate Car objects and confirmed each has its own 
+  independent copy of data
+
+Concept learned:
+- __init__ is the constructor — it runs automatically when an object 
+  is created, to set up initial values
+- self refers to "this particular object" — it lets each object keep 
+  its own separate data
+- A class is written once, but many objects can be created from it, 
+  each with different values
+- Methods are just functions defined inside a class, and they always 
+  take self as the first parameter
