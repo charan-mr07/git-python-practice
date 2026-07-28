@@ -303,3 +303,24 @@ Concept learned:
   each with different values
 - Methods are just functions defined inside a class, and they always 
   take self as the first parameter
+
+## Day 18 — July 28, 2026
+
+What I did:
+- Practiced OOP Inheritance in Python
+- Created a parent class "Vehicle" with attributes (brand, speed) and 
+  a display_speed() method
+- Created a child class "Car" that inherits from Vehicle
+- Used super().__init__() to call the parent class's constructor and 
+  set inherited attributes
+- Added Car's own attribute (fuel_type) and its own method (show_fuel_type)
+- Practiced method overriding — redefining a parent method inside a child class
+
+Concept learned:
+- Inheritance lets a child class reuse attributes and methods from a 
+  parent class, avoiding duplicate code
+- super() is used to call the parent class's constructor from the child class
+- A child class can have its own additional attributes and methods on 
+  top of what it inherits
+- Method overriding means a child class can redefine a method that already 
+  exists in the parent, giving it different behavior
