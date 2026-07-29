@@ -324,3 +324,25 @@ Concept learned:
   top of what it inherits
 - Method overriding means a child class can redefine a method that already 
   exists in the parent, giving it different behavior
+
+## Day 19 — July 29, 2026
+
+What I did:
+- Practiced OOP Encapsulation — used "__" (double underscore) prefix to 
+  make an attribute private
+- Wrote a Student class with a private __marks attribute, accessible 
+  only through set_marks() and get_marks() methods
+- Added validation inside set_marks() to only accept marks between 0-100
+- Practiced Polymorphism — created Circle, Square, Rectangle classes, 
+  each with their own area() method that calculates differently
+- Looped through different shape objects and called the same method 
+  name (area()) on each, getting different results
+
+Concept learned:
+- Encapsulation protects data from being directly changed from outside 
+  the class — access/modification only happens through defined methods
+- A "__" prefix before a variable name makes it private in Python
+- Polymorphism allows the same method name to behave differently 
+  depending on which class/object it belongs to
+- Together, encapsulation and polymorphism make code safer (controlled 
+  access) and more flexible (same interface, different behavior)
