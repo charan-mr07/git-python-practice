@@ -346,3 +346,20 @@ Concept learned:
   depending on which class/object it belongs to
 - Together, encapsulation and polymorphism make code safer (controlled 
   access) and more flexible (same interface, different behavior)
+
+## Day 20 — July 30, 2026
+
+What I did:
+- Practiced Python Modules and Imports
+- Used built-in modules: math (sqrt, factorial) and random (randint, choice)
+- Created my own module (greetings.py) with a function say_hello()
+- Imported my own module into a main file and called the function from it
+
+Concept learned:
+- A module is just a .py file containing reusable functions/classes/variables
+- Built-in modules like math and random come with Python, no installation needed
+- "from module import function" lets you use a function directly without 
+  prefixing it with the module name
+- "import module as alias" lets you give a module a shorter name
+- Custom modules (files I write myself) can be imported the same way as 
+  built-in ones, as long as they're in the same folder

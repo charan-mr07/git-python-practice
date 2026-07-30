@@ -24,3 +24,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 17: Practiced OOP basics (classes, objects,__init__, self, methods)
 - Day 18: Practiced OOP Inheritance (parent/child classes, super(), method overriding)
 - Day 19: Practiced OOP Encapsulation (private attributes) and Polymorphism (same method, different behavior)
+- Day 20: Practiced Modules & Imports (math, random, custom modules)
