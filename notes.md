@@ -363,3 +363,20 @@ Concept learned:
 - "import module as alias" lets you give a module a shorter name
 - Custom modules (files I write myself) can be imported the same way as 
   built-in ones, as long as they're in the same folder
+
+## Day 21 — July 31, 2026
+
+What I did:
+- Practiced Python GUI basics using Tkinter
+Created a simple window using Tk()
+- Added widgets like Label, Button, and Entry
+- Learned how to pack widgets into the window
+Ran the GUI application using mainloop()
+
+Concept learned:
+- Tkinter is Python’s built-in library for creating graphical user interfaces
+- A window is created using Tk() and must run with mainloop()
+- Label is used to display text on the window
+- Button is used to trigger an action when clicked
+- Entry is used to take user input
+- Widgets need to be placed using layout methods like pack()
