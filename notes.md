@@ -380,3 +380,25 @@ Concept learned:
 - Button is used to trigger an action when clicked
 - Entry is used to take user input
 - Widgets need to be placed using layout methods like pack()
+
+## Day 22 — August 2, 2026
+
+What I did:
+- Practiced tkinter GUI programming in depth
+- Learned the 3 layout managers: pack(), grid(), and place()
+- Practiced more widgets: Checkbutton, Radiobutton, Listbox, and Messagebox
+- Built a full example — a Student Form with:
+  - Name entry field
+  - Course selection using Radiobuttons (ECE/CSE)
+  - Submit button that shows entered details in a popup message box
+- Used grid() layout to properly align labels, entry fields, and buttons
+
+Concept learned:
+- pack() stacks widgets automatically (simple, top to bottom)
+- grid() arranges widgets in rows and columns — best for forms
+- place() positions widgets using exact x, y coordinates
+- IntVar() and StringVar() are used to track the state of checkboxes 
+  and radio buttons
+- messagebox.showinfo() creates popup alerts to show information to the user
+- Combining multiple widgets with grid() lets me build real, structured 
+  forms instead of just single elements
