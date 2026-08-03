@@ -27,3 +27,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 20: Practiced Modules & Imports (math, random, custom modules)
 - Day 21: Practiced GUI basics with tkinter (window, label, button, entry)
 - Day 22: Practiced tkinter layout managers, more widgets, and built a full Student Form example.
+- Day 23: Built a GUI Calculator using tkinter (combining functions, lambda, grid layout, exception handling)

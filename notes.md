@@ -402,3 +402,28 @@ Concept learned:
 - messagebox.showinfo() creates popup alerts to show information to the user
 - Combining multiple widgets with grid() lets me build real, structured 
   forms instead of just single elements
+
+## Day 23 — August 2, 2026
+
+What I did:
+- Built a GUI Calculator using tkinter, combining everything learned so far
+- Created number buttons (0-9), operator buttons (+, -, *, /), and 
+  Clear/Equals buttons using grid layout
+- Used a list of tuples to define all button positions, and a single 
+  loop to create them (avoiding repetitive code)
+- Used lambda with a default argument (t=text) to correctly pass each 
+  button's value to the click handler
+- Used eval() to calculate the final result from the typed expression
+- Used try-except to handle invalid expressions and show "Error" instead 
+  of crashing
+
+Concept learned:
+- eval() can execute a string as a Python expression — useful for 
+  calculators, but should be used carefully since it can run any code
+- When creating multiple buttons in a loop, lambda needs a default 
+  argument (t=text) to "freeze" each button's own value — otherwise 
+  all buttons end up using the last value in the loop
+- Combining functions, GUI widgets, grid layout, and exception handling 
+  together makes a real, working mini-project
+- This project pulled together concepts from almost every previous day: 
+  functions, lambda, try-except, and OOP-style event handling
